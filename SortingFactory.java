@@ -12,7 +12,7 @@ public class SortingFactory {
 	 */
 	public SortingFactory(boolean returnDefault) {
 		// If the client does not provide a proper algorithm name: use the default, or return an error?
-		useDefault = returnDefault;
+		useDefault = returnDefault;2
 	}
 	
 	
